@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1254 1254" width="1254" height="1254">
+  <defs>
+    <radialGradient id="graftGlow" cx="712" cy="582" r="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f9903b" stop-opacity="0.55"/>
+      <stop offset="0.45" stop-color="#fcbb50" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#fcbb50" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g id="ring">
+    <circle cx="627" cy="627" r="618.5" fill="none" stroke="#02394e" stroke-width="12"/>
+  </g>
+  <g id="glow">
+    <circle cx="712" cy="582" r="120" fill="url(#graftGlow)"/>
+  </g>
+  <g id="fills" stroke="none">
+    <path id="teal-upper" fill="#12727e" d="M570,297 628,237 628,325 C616,332 598,344 598,356 L598,608 570,598 570,568.4 446.7,445 420,409.5 441,410 446.7,414 570,518.4 Z"/>
+    <path id="green-sliver" fill="#559b56" d="M602.5,264.5 628,237 628,325 612,334 602.5,342 Z"/>
+    <path id="green-upper" fill="#559b56" d="M718.8,269.5 628,325 C616,332 598,344 598,356 L598,608 L610,630 L620,647 L628,665 L628,400 C628,380 636,367 651,350 Z"/>
+    <path id="yellow-v" fill="#fcbb50" d="M570,598 C586,606 600,616 610,630 C620,644 626,655 628,665 L664,603 L692,614 C665,652 645,685 628,719 C610,685 592,650 570,626 Z"/>
+    <path id="teal-lower" fill="#12727e" d="M570,626 C592,650 610,685 628,719 L632,728 L632,794 L627,797 L627,893 L500,893 C548,893 570,868 570,830 Z"/>
+    <path id="green-lower" fill="#559b56" d="M628,719 C645,685 665,652 692,614 L712,632 C700,655 685,672 685,700 L685,830 C686,868 712,893 745,893 L627,893 L627,797 L632,794 L632,728 Z"/>
+    <path id="lgreen-stem" fill="#afe6a2" d="M814.7,453.2 822,453 780,534.4 876,534.4 876,540 738,571 731,563 C745,540 760,510 768,484 L796,463 Z"/>
+  </g>
+  <g id="lines" fill="none" stroke="#02394e" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <!-- trunk outline -->
+    <path d="M570,198 L570,830 C570,868 548,893 500,893" stroke="#02394e" stroke-width="12"/>
+    <path d="M712,632 C700,655 685,672 685,700 L685,830 C686,868 712,893 745,893" stroke="#02394e" stroke-width="12"/>
+    <path d="M627.9,116.4 L628,325" stroke="#02394e" stroke-width="12"/>
+    <path d="M718.8,269.5 L628,325 C616,332 598,344 598,356 L598,608" stroke="#02394e" stroke-width="12"/>
+    <path d="M718.8,269.5 L651,350 C636,367 628,380 628,400 L628,665" stroke="#02394e" stroke-width="12"/>
+    <path d="M570,598 C586,606 600,616 610,630 C620,644 626,655 628,665 L664,603" stroke="#02394e" stroke-width="12" stroke-linejoin="miter"/>
+    <path d="M570,626 C592,650 610,685 628,719 C645,685 665,652 692,614" stroke="#02394e" stroke-width="12" stroke-linejoin="miter"/>
+    <path d="M627,797 L627,893" stroke="#02394e" stroke-width="12"/>
+    <path d="M598.5,724 L598,830 C598,868 585,893 560,893" stroke="#02394e" stroke-width="12"/>
+    <path d="M657,745 L657,840 C657,868 672,893 695,893" stroke="#02394e" stroke-width="12"/>
+    <path d="M305,892.8 L948,892.8" stroke="#02394e" stroke-width="12"/>
+    <!-- crown -->
+    <path d="M627.9,116.4 L570,198" stroke="#02394e" stroke-width="12"/>
+    <path d="M525.4,140.2 L570,198" stroke="#02394e" stroke-width="12"/>
+    <path d="M525.4,140.2 L525.4,318 L570,348" stroke="#02394e" stroke-width="12"/>
+    <path d="M446.9,180.5 L570,297" stroke="#02394e" stroke-width="12"/>
+    <path d="M718.7,143.2 L570,297" stroke="#02394e" stroke-width="12"/>
+    <path d="M718.7,143.2 L718.8,269.5" stroke="#02394e" stroke-width="12"/>
+    <path d="M815.5,183.7 L718.8,269.5" stroke="#02394e" stroke-width="12"/>
+    <!-- left network -->
+    <path d="M446.9,180.5 L446.7,414" stroke="#02394e" stroke-width="12"/>
+    <path d="M363.8,247.3 L446.6,303.1 L500,356.5 L500,459" stroke="#02394e" stroke-width="12"/>
+    <path d="M363.8,247.3 L363.9,362.3" stroke="#02394e" stroke-width="12"/>
+    <path d="M304.2,305 L363.9,362.3" stroke="#02394e" stroke-width="12"/>
+    <path d="M363.9,362.3 L570,568.4" stroke="#02394e" stroke-width="12"/>
+    <path d="M446.7,414 L570,518.4" stroke="#02394e" stroke-width="12"/>
+    <path d="M363.9,362.3 L266.9,445.3 L344.6,522.9" stroke="#02394e" stroke-width="12"/>
+    <path d="M363.7,445.3 L446.7,445" stroke="#02394e" stroke-width="12"/>
+    <path d="M236.9,523 L524.6,523" stroke="#02394e" stroke-width="12"/>
+    <path d="M462,523 L288,655" stroke="#02394e" stroke-width="12"/>
+    <path d="M344.6,522.9 L344.6,611.8" stroke="#02394e" stroke-width="12"/>
+    <path d="M382,583.5 L382,666" stroke="#02394e" stroke-width="12"/>
+    <!-- right network -->
+    <path d="M914.2,256.5 L901,372" stroke="#02394e" stroke-width="12"/>
+    <path d="M971.3,311.4 L901,372" stroke="#02394e" stroke-width="12"/>
+    <path d="M1005.9,386.1 L901,372 L814.7,453.2" stroke="#02394e" stroke-width="12"/>
+    <path d="M1005.9,386.1 L933.9,453.1" stroke="#02394e" stroke-width="12"/>
+    <path d="M1027.9,453.1 L814.7,453.2" stroke="#02394e" stroke-width="12"/>
+    <path d="M933.9,453.1 L876.2,537.3" stroke="#02394e" stroke-width="12"/>
+    <path d="M1008.6,517.3 L876.2,537.3 L962.4,580.1" stroke="#02394e" stroke-width="12"/>
+    <path d="M876.2,534.4 L780,534.4 L822,453" stroke="#02394e" stroke-width="12"/>
+    <path d="M876.2,540 L738,571" stroke="#02394e" stroke-width="12"/>
+  </g>
+  <g id="scion" fill="none" stroke="#12727e" stroke-width="11.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M864.4,232 L814.6,296.1 L814.7,453.2" stroke="#12727e" stroke-width="11.5"/>
+    <path d="M814.6,296.1 L729.8,384.6" stroke="#12727e" stroke-width="11.5"/>
+    <path d="M728.5,368 L725,326" stroke="#12727e" stroke-width="11.5"/>
+    <path id="cyan-stem" fill="#b1f4fb" d="M729.8,384.6 C727,420 738,470 735,495 C731,512 718,532 712,552 L730,566 C736,555 758,520 768,482 C764,455 748,420 729.8,384.6 Z"/>
+    <path d="M735,498 L718.5,534" stroke="#075a65" stroke-width="12.5"/>
+    <path d="M796,463 L768,484 C760,510 745,540 731,563" stroke="#075a65" stroke-width="11.5"/>
+  </g>
+  <g id="nodes" stroke-linejoin="round">
+    <!-- left network nodes -->
+    <circle cx="446.9" cy="180.5" r="16.3" fill="#12727e" stroke="#02394e" stroke-width="11"/>
+    <circle cx="525.4" cy="140.2" r="16.3" fill="#12727e" stroke="#02394e" stroke-width="11"/>
+    <circle cx="363.8" cy="247.3" r="16.3" fill="#12727e" stroke="#02394e" stroke-width="11"/>
+    <circle cx="304.2" cy="305" r="16.3" fill="#12727e" stroke="#02394e" stroke-width="11"/>
+    <circle cx="363.9" cy="362.3" r="16.3" fill="#12727e" stroke="#02394e" stroke-width="11"/>
+    <circle cx="363.7" cy="445.3" r="16.3" fill="#12727e" stroke="#02394e" stroke-width="11"/>
+    <circle cx="236.9" cy="523" r="16.3" fill="#12727e" stroke="#02394e" stroke-width="11"/>
+    <circle cx="382" cy="666" r="16.3" fill="#12727e" stroke="#02394e" stroke-width="11"/>
+    <path d="M266.9,422.3 247,433.8 247,456.8 266.9,468.3 286.8,456.8 286.8,433.8 Z" fill="#12727e" stroke="#02394e" stroke-width="11"/>
+    <path d="M344.6,499.9 324.7,511.4 324.7,534.4 344.6,545.9 364.5,534.4 364.5,511.4 Z" fill="#12727e" stroke="#02394e" stroke-width="11"/>
+    <path d="M288,633 268.9,644 268.9,666 288,677 307.1,666 307.1,644 Z" fill="#12727e" stroke="#02394e" stroke-width="11"/>
+    <path d="M446.6,280.1 426.7,291.6 426.7,314.6 446.6,326.1 466.5,314.6 466.5,291.6 Z" fill="#559b56" stroke="#02394e" stroke-width="11"/>
+    <!-- crown nodes -->
+    <circle cx="627.9" cy="116.4" r="16.3" fill="#559b56" stroke="#02394e" stroke-width="11"/>
+    <circle cx="718.7" cy="143.2" r="16.3" fill="#559b56" stroke="#02394e" stroke-width="11"/>
+    <circle cx="815.5" cy="183.7" r="16.3" fill="#559b56" stroke="#02394e" stroke-width="11"/>
+    <circle cx="718.8" cy="269.5" r="16.3" fill="#559b56" stroke="#02394e" stroke-width="11"/>
+    <!-- right network nodes -->
+    <circle cx="914.2" cy="256.5" r="16.3" fill="#afe6a2" stroke="#02394e" stroke-width="11"/>
+    <circle cx="971.3" cy="311.4" r="16.3" fill="#afe6a2" stroke="#02394e" stroke-width="11"/>
+    <circle cx="1005.9" cy="386.1" r="16.3" fill="#afe6a2" stroke="#02394e" stroke-width="11"/>
+    <circle cx="1027.9" cy="453.1" r="16.3" fill="#afe6a2" stroke="#02394e" stroke-width="11"/>
+    <circle cx="1008.6" cy="517.3" r="16.3" fill="#afe6a2" stroke="#02394e" stroke-width="11"/>
+    <circle cx="962.4" cy="580.1" r="16.3" fill="#afe6a2" stroke="#02394e" stroke-width="11"/>
+    <circle cx="901" cy="372" r="18.3" fill="#afe6a2" stroke="#02394e" stroke-width="11"/>
+    <circle cx="933.9" cy="453.1" r="18.3" fill="#afe6a2" stroke="#02394e" stroke-width="11"/>
+    <circle cx="876.2" cy="537.3" r="18.3" fill="#cfc56e" stroke="#02394e" stroke-width="11"/>
+    <!-- scion nodes -->
+    <circle cx="864.4" cy="232" r="16.3" fill="#b1f4fb" stroke="#12727e" stroke-width="11"/>
+    <circle cx="814.6" cy="296.1" r="18.3" fill="#b1f4fb" stroke="#12727e" stroke-width="11"/>
+    <circle cx="729.8" cy="384.6" r="18.3" fill="#b1f4fb" stroke="#12727e" stroke-width="11"/>
+    <circle cx="814.7" cy="453.2" r="18.3" fill="#b1f4fb" stroke="#12727e" stroke-width="11"/>
+  </g>
+  <g id="wrap">
+    <path id="wrap-body" d="M694.1,554.5 C683.3,552.8 672.5,561.9 674.4,573.3 C660.5,574.2 652.9,590.9 662.8,601.5 C669.4,608.5 686,610.8 691.9,612.6 C689.7,617.4 690.2,623.2 693.1,627.6 C697.7,634.5 701.8,644.4 711,646.2 C724,648.8 733.5,634.7 727.5,623.3 C739.8,627.1 752.7,616.4 749.2,603.2 C763.6,602.8 771.3,585.1 760.8,574.6 C753.3,567.1 732,564.6 727.1,563.3 C729,558.9 728.9,554 726.7,549.7 C723.2,543.1 719.6,531.6 711.4,527.9 C701.9,523.6 690.6,530.1 689.6,540.5 C689,545.8 691.7,549.9 694.1,554.5 Z" fill="#02394e"/>
+    <g fill="none" stroke-linecap="round">
+      <path d="M691,571 749,586.5" stroke="#fcbb50" stroke-width="12.5"/>
+      <path d="M675,590 733,607.5" stroke="#f9903b" stroke-width="12.5"/>
+      <path d="M705,542 713,557" stroke="#fcbb50" stroke-width="10"/>
+      <path d="M706,619 714,631" stroke="#f9903b" stroke-width="10"/>
+    </g>
+  </g>
+  <g id="sparks" fill="none" stroke="#fcbb50" stroke-width="10" stroke-linecap="round">
+    <path d="M690.5,497 690.5,515"/>
+    <path d="M655.4,509.7 673.2,528.3"/>
+    <path d="M648.4,545.3 662.9,545.3"/>
+    <path d="M774.3,610 794.6,610"/>
+    <path d="M763.3,627.8 783.2,646.4"/>
+    <path d="M747.3,645.3 749.7,663"/>
+  </g>
+  <g id="text" fill="#02394e">
+    <text transform="translate(306.7269 1033.3141)" font-family="CMUTypewriter-Bold, 'CMU Typewriter Text'" font-size="156" font-weight="700">Graft.jl</text>
+    <text transform="translate(347.2045 1122.5052)" font-family="CMUBright-SemiBold, 'CMU Bright'" font-size="62" font-weight="600"><tspan x="0" y="0">Tree Tensor Network</tspan><tspan x="125.423" y="51">Julia Library</tspan></text>
+  </g>
+</svg>

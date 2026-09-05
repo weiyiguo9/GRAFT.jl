@@ -1,7 +1,7 @@
 # Graft.jl
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/GraftTN/Graft.jl@main/assets/graftjl-logo.png" alt="Graft.jl logo" width="240">
+  <img src="assets/graftjl-logo.svg" alt="Graft.jl logo" width="240">
 </p>
 
 A general-purpose tree tensor network core library. DMFT/EDMFT impurity-solver workflows are provided by the companion `GraftImpurity.jl` package, which depends on Graft rather than being embedded in it.
